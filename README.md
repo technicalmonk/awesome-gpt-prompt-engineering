@@ -158,6 +158,7 @@ with Large Language Models.
 - [llm](https://github.com/snwfdhmp/llm): Use any LLM from the command line, easily.
 - [Nat.Dev](https://nat.dev): Multiple Chat AI Playground & Comparer.
 - [Poe.com](https://poe.com): All in one playground: GPT4, Sage, Claude+, Dragonfly, and more...
+- [Ask Alpha](https://ask-alpha): Managed AI Workbench for Professionals with model switching, plugins, & prompt library.
 - [Ora.sh GPT-4 Chatbots](https://ora.sh/gpt-4)
 - [Better ChatGPT](https://bettergpt.chat): A web app with a better UI for exploring OpenAI's ChatGPT API.
 - [LMQL.AI](https://lmql.ai/playground/#calc): A programming language and platform for language models.
